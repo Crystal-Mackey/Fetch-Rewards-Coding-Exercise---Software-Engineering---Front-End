@@ -25,5 +25,6 @@ https://stackoverflow.com/questions/39019094/reactjs-get-json-object-data-from-a
 
 extra:
 This is Bella. We lost her last year but she lives close to us in our heart. I definitely love all furbabies but Bella was one of a kind.
+<br/>
 <img src = "src\media\Bella.jpg"/>
 <img src = "src\media\BellaAshes.jpg"/>
