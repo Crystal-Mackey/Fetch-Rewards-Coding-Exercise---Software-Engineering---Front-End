@@ -14,3 +14,16 @@ To run...
 download or copy repo.
 run npm install (npm i)
 run npm start
+
+
+
+
+sources:
+
+https://material-ui.com/components/data-grid/getting-started/
+https://stackoverflow.com/questions/39019094/reactjs-get-json-object-data-from-an-url
+
+extra:
+This is Bella. We lost her last year but she lives close to us in our heart. I definitely love all furbabies but Bella was one of a kind.
+<img src = "./media/Bella.jpg"/>
+<img src = "./media/BellaAshes.jpg"/>
